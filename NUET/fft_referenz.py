@@ -37,7 +37,7 @@ plt.grid()
 plt.show()
 print(freqs[-1])
 
-
+##test
 
 #%%
 def fftref(x,fs, T):
