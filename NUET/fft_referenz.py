@@ -55,5 +55,5 @@ def fftref(x,fs, T):
 fftref(x,10000, 0.012)
 
 # %%
-
+print("kek")
 # %%
